@@ -1,0 +1,7 @@
+
+HEIGHT = 600
+WIDTH = 600
+
+KEYBOARD = {}
+MOUSE = {}
+BULLET_LIST = []
